@@ -1,2 +1,3 @@
-# LinAlg
- programming w lin alg
+# LinAlg<br>
+ programming w lin alg<br>
+ develop skills in this subject, using python & matlab
